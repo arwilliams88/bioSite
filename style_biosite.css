@@ -1,0 +1,71 @@
+#grad1 {
+  background: black; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, rgba(24,32,131,1), rgba(24,32,131,0)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, rgba(24,32,131,1), rgba(24,32,131,0)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, rgba(24,32,131,1), rgba(24,32,131,0)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(24,32,131,1), rgba(24,32,131,0)); /* Standard syntax (must be last) */
+}
+
+hr.style1 {
+	border-top: 10px dashed #000;
+}
+
+h1 {
+	font-family: 'Fredericka the Great', cursive, Verdana, Arial, sans-serif;
+	font-weight: 400;
+	color: #ADADAD;
+	font-size: 3.052em;
+	text-align: center;
+}
+
+h2 {
+	Font-family: 'Fredericka the Great', cursive, Verdana, Arial, sans-serif;
+	font-weight: 400;
+	color: #E3BD46;
+	font-size: 2.441em;
+}
+
+p {
+	font-family: 'Poiret One', cursive, Verdana, Arial, sans-serif;
+	font-size: 1.25em;
+}
+
+li {
+	font-family: 'Poiret One', cursive, Verdana, Arial, sans-serif;
+	font-size: 1.25em;
+}
+
+a:link {
+	color: #E3BD46;
+	text-decoration: none;
+}
+
+a:visited {
+	color: red;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: line-through;
+}
+
+figure {
+	text-align: center;
+}
+
+img.align-left {
+	float: left;
+	margin-right: 10px;
+}
+
+img.medium {
+	width: 300px;
+	height: 400px;
+}
+
+img.large {
+	width: 640px;
+	height: 480px;
+}
+	
+	
