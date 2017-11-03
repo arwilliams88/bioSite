@@ -51,6 +51,7 @@ a:hover {
 
 figure {
 	text-align: center;
+	margin: 0px;
 }
 
 img.align-left {
@@ -66,6 +67,15 @@ img.medium {
 img.large {
 	width: 640px;
 	height: 480px;
+}
+
+.wrapper {
+	width: 2000px;
+	margin: 0px auto;
+}
+
+ul {
+	list-style-image: url("Images/heart.png");
 }
 	
 	
