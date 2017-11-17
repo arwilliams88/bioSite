@@ -43,11 +43,11 @@ a:link {
 }
 
 a:visited {
-	color: red;
+	color: #ADADAD;
 }
 
 a:hover {
-	color: #000;
+	color: red;
 	text-decoration: line-through;
 }
 
